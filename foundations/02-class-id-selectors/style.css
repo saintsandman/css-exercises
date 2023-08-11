@@ -1,6 +1,11 @@
-.odd {
+.odd,
+.oddbig {
   background-color: #FC6A6A;
   font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddbig {
+    font-size: 24px;
 }
 
 #two {
