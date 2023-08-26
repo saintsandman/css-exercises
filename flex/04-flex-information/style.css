@@ -25,6 +25,9 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 200px;
+  height: auto;
+  text-align: center;
 }
 
 /* do not edit this footer */
