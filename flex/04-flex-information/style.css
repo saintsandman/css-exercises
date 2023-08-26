@@ -20,7 +20,7 @@ img {
   
 }
 
-.barberry {
+.barberry, .chilli, .pepper, .saffron {
   display: flex;
   flex-direction: column;
 }
