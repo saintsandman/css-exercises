@@ -17,7 +17,12 @@ img {
 .main {
   display: flex;
   justify-content: center;
- 
+  
+}
+
+.barberry {
+  display: flex;
+  flex-direction: column;
 }
 
 /* do not edit this footer */
