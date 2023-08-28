@@ -30,6 +30,8 @@ body {
 .right {
   display: flex;
   
+  flex-wrap: wrap;
+ 
 }
 
 
@@ -60,6 +62,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+  flex: 1 0 auto;
 }
 
 button {
