@@ -49,6 +49,11 @@ body {
   flex-shrink: 0;
 }
 
+.header {
+  display: flex;
+  flex: 1;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
@@ -62,7 +67,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
-  flex: 1 0 auto;
+  
 }
 
 button {
