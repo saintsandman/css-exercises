@@ -63,6 +63,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   width: 300px;
+  padding: 32px;
 }
 
 a {
