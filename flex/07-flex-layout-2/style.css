@@ -27,18 +27,27 @@ body {
   justify-content: center;
 }
 
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
   font-size: 24px;
   padding: 16px;
+  
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
 }
 
 a {
