@@ -5,6 +5,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  
  
 }
 
@@ -14,6 +17,11 @@ body {
   
 }
 
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+}
 
 img {
   width: 600px;
