@@ -14,13 +14,14 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  
+  padding: 16px;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
   margin-top: auto;
+  padding: 16px;
 }
 
 img {
@@ -47,7 +48,9 @@ input {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 8px;
+  padding: 0;
+  margin: 0;
+  gap: 16px;
  
 }
 
