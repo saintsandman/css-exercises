@@ -5,7 +5,15 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+ 
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
 
 img {
   width: 600px;
@@ -26,8 +34,13 @@ input {
   margin-bottom: 16px;
 }
 
+
+
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 8px;
+ 
 }
 
 a {
